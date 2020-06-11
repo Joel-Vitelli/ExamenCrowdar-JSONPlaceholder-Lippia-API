@@ -1,0 +1,15 @@
+{
+
+  "url": "https://jsonplaceholder.typicode.com/",
+  "endpoint": "posts/1",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "id": 1,
+    "title": "automation test",
+    "body": "cambio nombre",
+    "userId": 3
+}
+}
+

@@ -1,0 +1,12 @@
+{
+
+  "url": "https://jsonplaceholder.typicode.com/",
+  "endpoint": "posts/1",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "urlParameters": {
+
+  }
+}
+
